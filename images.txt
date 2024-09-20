@@ -1,8 +1,9 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-adolfintel/speedtest:latest
-garethflowers/svn-server
+#xhofe/alist:latest
+#adolfintel/speedtest:latest
+#garethflowers/svn-server
+snowdreamtech/frpc
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
