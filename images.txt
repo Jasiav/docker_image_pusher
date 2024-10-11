@@ -5,4 +5,4 @@
 #xinsodev/drawdb
 #vaultwarden/server
 #hslr/sun-panel
-chishin/nginx-proxy-manager-zh
+schenkd/nginx-ui
