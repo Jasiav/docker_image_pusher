@@ -5,4 +5,5 @@
 #xinsodev/drawdb
 #vaultwarden/server
 #hslr/sun-panel
-uozi/nginx-ui
+#uozi/nginx-ui
+corentinth/it-tools
