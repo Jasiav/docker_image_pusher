@@ -6,4 +6,5 @@
 #vaultwarden/server
 #hslr/sun-panel
 #uozi/nginx-ui
-corentinth/it-tools
+#corentinth/it-tools
+syncthing/syncthing
