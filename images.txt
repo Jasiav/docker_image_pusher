@@ -4,7 +4,8 @@
 #jgraph/drawio
 #xinsodev/drawdb
 #vaultwarden/server
-hslr/sun-panel
+#hslr/sun-panel
 #uozi/nginx-ui
 #corentinth/it-tools
 #syncthing/syncthing
+onlyoffice/documentserver
