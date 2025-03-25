@@ -8,4 +8,5 @@
 #uozi/nginx-ui
 #corentinth/it-tools
 #syncthing/syncthing
-onlyoffice/documentserver
+#onlyoffice/documentserver
+idootop/mi-gpt
