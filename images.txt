@@ -9,4 +9,4 @@
 #corentinth/it-tools
 #syncthing/syncthing
 #onlyoffice/documentserver
-idootop/mi-gpt
+hanxi/xiaomusic
