@@ -9,4 +9,5 @@
 #corentinth/it-tools
 #syncthing/syncthing
 #onlyoffice/documentserver
-hanxi/xiaomusic
+#hanxi/xiaomusic
+nextcloud/all-in-one
